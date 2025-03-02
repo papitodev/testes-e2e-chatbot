@@ -1,6 +1,6 @@
-# 🚀 Testes de Chatbot com Cypress! 🤖🔥
-
 ![Cover](.github/cover.png)
+
+# 🚀 Testes de Chatbot com Cypress! 🤖🔥
 
 Olá QA! Tudo certo? 👋 Aqui é o Fernando Papito e neste mini treinamento, vamos aprender a testar Chatbots baseados em regras usando Cypress!
 
